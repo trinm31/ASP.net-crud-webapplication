@@ -14402,6 +14402,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/minhtri/Documents/Dev/RiderProjects/WebApplication/WebApplication/Pages/Booklist/Index.cshtml",
+      "TargetPath": "Pages\\Booklist\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/minhtri/Documents/Dev/RiderProjects/WebApplication/WebApplication/Pages/_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -14422,8 +14427,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/minhtri/Documents/Dev/RiderProjects/WebApplication/WebApplication/Pages/Booklist/Create.cshtml",
+      "TargetPath": "Pages\\Booklist\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/minhtri/Documents/Dev/RiderProjects/WebApplication/WebApplication/Pages/Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/minhtri/Documents/Dev/RiderProjects/WebApplication/WebApplication/Pages/Booklist/Edit.cshtml",
+      "TargetPath": "Pages\\Booklist\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],
